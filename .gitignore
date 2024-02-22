@@ -6,9 +6,4 @@ debug
 foo.*
 *.log
 data
-LICENSE
-lazyvim.json
-stylua.toml
-lazy-lock.json
-.neoconf.json
 
